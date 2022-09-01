@@ -1,5 +1,5 @@
 # datapack-obfuscator
-Mojang are obfuscating their libraries, so you also shouln't be worse.
+This simple algorithm will turn your datapack into a pile of shit by changing all the function indexes. It will come in handy if the datapack "backend" is poorly designed and it won't get any worse.
 
 Requires:
 * Node.js v14+
